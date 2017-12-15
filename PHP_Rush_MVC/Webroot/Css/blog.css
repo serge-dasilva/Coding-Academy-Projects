@@ -1,0 +1,31 @@
+body {
+  background-color: #d5cfc3;
+}
+
+header {
+  margin:0;
+  padding:0;
+  height : 250px;
+  background: url(../Img/header_img.jpg) no-repeat center; 
+  -webkit-background-size: cover;
+  background-size: 100%r;
+}
+
+#userAccount {
+  background-color : white;
+  margin-top: 10px;
+  height: 30px;
+  width: 200px;
+  float: right;
+}
+
+.container {
+  background-color: white;
+    border-style: solid;
+    border-width: 5px;
+    border-color : white;
+}
+
+#textarea1 {
+  height : 150px;
+}
