@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "Courrier";  src :url('Courier_Prime.ttf');
+}
+
+
+
+
+p{
+  font-family: Courrier;
+}
+
+h2{
+
+  font-family: 'Indie Flower', cursive;
+}
+
+form{
+
+  background-color: rgba(192, 192, 192, 0.5);
+}
+
+body{
+  background-color: rgb(247,241,229);
+  /* background-repeat: no-repeat;
+        background-size: 100% 100%;*/
+
+}
